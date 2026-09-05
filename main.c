@@ -7,7 +7,7 @@
 
 int main()
 {
-printf("-----Welcome----\n");
+printf("-----Welcome to Git Project----\n");
 	int x = 20;
 	int y = 10;
 
