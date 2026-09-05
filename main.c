@@ -7,7 +7,7 @@
 
 int main()
 {
-printf("-----CAN Feature Enabled----\n");
+printf("-----Ethernet Feature Enabled----\n");
 	int x = 20;
 	int y = 10;
 
