@@ -7,7 +7,7 @@
 
 int main()
 {
-printf("-----Welcome to Git Project----\n");
+printf("-----CAN Feature Enabled----\n");
 	int x = 20;
 	int y = 10;
 
