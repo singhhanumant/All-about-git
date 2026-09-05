@@ -8,6 +8,7 @@
 int main()
 {
 printf("-----Ethernet Feature Enabled----\n");
+printf("-----Display Feature Enabled----\n");
 	int x = 20;
 	int y = 10;
 
